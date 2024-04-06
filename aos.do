@@ -5,6 +5,7 @@
 	Klassifikatori nol bo'lganda, faoliyat turini tanlanmagan hisoblanadi va bu hech qanday faoliyat turini kiritmagan bo'ladi.
 	aos hisoboti joriy oy uchun keyingi oyning 15 sanasigacha topshiriladi.
 	aos uchun oxirgi topshirilgan oy hisoblanadi.
+	papka nomini global o'zgarmasga o'sgartirish kerak
 */
 
 local papka "D:\06.04.2024\05.04.2024baza\AOS"
