@@ -33,7 +33,9 @@ git clone -b <branch> <remote_repo> //aniq belgilangan repozitoriydagi branchni 
 
 git status //statusni ko'rsatadi.
 
+git pull origin master // pull qulush
 
+git push origin main // push qilish
 
 
 
