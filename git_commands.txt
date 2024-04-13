@@ -1,0 +1,43 @@
+git init //git repozitoriyni yaratish
+rm -r .git // repozitoriyni o'chirib tashlaydi
+git remote add origin URL репозитория // lokal repozitoriyni github bilan ulaydi.
+
+
+git config --global user.name "Your Name"
+git config --global user.email "your email"
+
+
+git add . // gitga fayllarni commitga tayyorlash
+git commit -m "start project"
+
+git branch // branchlarni ko'rsatish. Agar qaysi branch nomi oldida yulduzcha belgisi turgan bo'lsa, o'sha branch joriy branch hisoblanadi.
+
+git branch "main" //main branchni hosil qiladi
+
+git checkout "branchname" //ushbu branchni joriy branchga o'tkazadi.
+git checkout -b "branchname" //yangi branch hosil qiladi va ushbu branchni joriy branchga o'tkazadi.
+
+git branch -d "branchname" // branchni o'chirish
+
+git branch -v //har bir branchdagi oxirgi commitni ko'rsatadi
+
+git config list //barcha configuratsiyalarni ko'rsatadi
+
+
+git clone <repo> //repozitoriyni clone qiladi.
+
+git merge branch //joriy branchni branch bilan birlashtiradi.
+
+
+git clone -b <branch> <remote_repo> //aniq belgilangan repozitoriydagi branchni clone qiladi.
+
+git status //statusni ko'rsatadi.
+
+
+
+
+
+
+
+
+
