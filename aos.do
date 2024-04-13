@@ -6,6 +6,7 @@
 	aos hisoboti joriy oy uchun keyingi oyning 15 sanasigacha topshiriladi.
 	aos uchun oxirgi topshirilgan oy hisoblanadi.
 	papka nomini global o'zgarmasga o'sgartirish kerak
+	aos file
 */
 
 local papka "D:\06.04.2024\05.04.2024baza\AOS"
