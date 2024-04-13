@@ -38,7 +38,7 @@ git pull origin master // pull qulush
 git push origin main // push qilish
 
 
-
+yangi qator
 
 
 
